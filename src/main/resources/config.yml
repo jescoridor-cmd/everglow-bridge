@@ -1,0 +1,6 @@
+api:
+  base-url: "https://YOUR-API-DOMAIN.example.com"
+  token: "CHANGE_ME"
+sync:
+  interval-seconds: 60
+  request-timeout-seconds: 8

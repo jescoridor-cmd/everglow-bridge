@@ -1,0 +1,8 @@
+name: EverGlowBridge
+version: 1.0.0
+main: id.everglow.bridge.EverGlowBridge
+api-version: '1.21'
+author: EverGlow SMP
+website: https://evglow.my.id
+softdepend: [Vault, LuckPerms]
+description: Asynchronous read-only stats bridge for EverGlow SMP.
